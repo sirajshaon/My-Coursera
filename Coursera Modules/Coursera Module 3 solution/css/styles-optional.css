@@ -1,0 +1,85 @@
+/* header start*/
+#header-nav {
+	background-color: #8f8f8f;
+    border: 2px solid black;
+    border-radius: 0px;
+}
+.navbar-brand {
+	    margin: -36px 0px 0px;
+        padding:24px;
+            height: 100px;
+}
+ a {
+	text-decoration:none;
+	color: black;
+}
+.navbar-brand:hover a{
+	text-decoration:none;
+}
+#button{
+    border-color: black;
+    height:42px;
+}
+#button:hover {
+	background:transparent;
+    border-color: white;
+}
+#header-nav  .navbar-toggle .icon-bar {
+    background-color: black;
+}
+#button:hover .icon-bar {
+	background:white;
+}
+#collapsable-nav {
+	text-align: center;
+	background: white;
+    font-size:20px;
+}
+#collapsable-nav li {
+	border-top: 2px solid black;
+}
+#collapsable-nav ul {
+    
+    margin-top:0px;
+}
+#collapsable-nav li a {
+    color:black;
+}
+/* header end */
+
+/* home page start */
+.content-text {
+	background: #8f8f8f;
+	padding: 20px;
+	margin-bottom:20px;
+	color: black;
+}
+
+h3 {
+	margin-top:0px;
+}
+/* home page end */
+
+/* Media Query */
+@media (max-width: 767px) {
+    .content-text {
+	border-left: 30px solid white;
+	border-right: 30px solid white;
+        }
+}
+@media (min-width: 768px) {
+	#collapsable-nav {
+		display:none !important;
+		}
+		#beef {
+	border-left: 10px solid white;
+}
+#chicken {
+	border-right: 10px solid white;
+}
+}
+@media (min-width: 992px) {
+	.content-text {
+	border-left: 10px solid white;
+	border-right: 10px solid white;
+}
