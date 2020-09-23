@@ -1,6 +1,7 @@
-# My-Coursera
-This is my Coursera Modules Repository 
+<span style="color: maroon; font-size:48px;">My-Coursera</span>
+This is my Coursera Modules Repository
 <br/>
+
 <div style="margin: auto;width: 400px; text-align: center; background: maroon; padding: 10px;">
   <h1 style="color:navajowhite;"> HTML, CSS, and Javascript for Web Developers</h1>
 <h3>
