@@ -3,7 +3,7 @@
 This is my Coursera Modules Repository
 <br/>
 
-<div style="margin: auto;width: 400px; text-align: center; background: maroon; padding: 10px 10px 0px 10px;">
+<div style="margin: auto;width: 400px; text-align: center; background: maroon; padding: 10px;">
   <h1 style="color:navajowhite;"> HTML, CSS, and Javascript for Web Developers</h1>
 <h3>
 <a href="https://sirajshaon.github.io/My-Coursera/CourseraModules/CourseraModule2Solution/"> Module 2 Solution </a>
