@@ -6,11 +6,11 @@ This is my Coursera Modules Repository
 <div style="margin: auto;width: 400px; text-align: center; background: maroon; padding: 10px;">
   <h1 style="color:navajowhite;"> HTML, CSS, and Javascript for Web Developers</h1>
 <h3>
-<a href="https://sirajshaon.github.io/My-Coursera/Coursera%20Modules/Coursera%20Module%202%20solution/"> Module 2 Solution </a>
+<a href="https://sirajshaon.github.io/My-Coursera/CourseraModules/CourseraModule2Solution/"> Module 2 Solution </a>
 <br/>
-<a href="https://sirajshaon.github.io/My-Coursera/Coursera%20Modules/Coursera%20Module%203%20solution/index.html"> Module 3 Solution </a>
+<a href="https://sirajshaon.github.io/My-Coursera/CourseraModules/CourseraModule3Solution/"> Module 3 Solution </a>
 <br/>
-<a href="https://sirajshaon.github.io/My-Coursera/Coursera%20Modules/Coursera%20Module%204%20solution/harder/index.html"> Module 4 Solution </a>
+<a href="https://sirajshaon.github.io/My-Coursera/CourseraModules/CourseraModule4Solution/harder/"> Module 4 Solution </a>
 <br/>
-<a href="  "> Module 5 Solution </a>
+<a href="https://sirajshaon.github.io/My-Coursera/CourseraModules/CourseraModule5Solution/ "> Module 5 Solution </a>
  </h3></div>
