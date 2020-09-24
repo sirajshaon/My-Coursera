@@ -1,4 +1,4 @@
-<span style="color: maroon; font-size:48px;">My-Coursera</span>
+<h1 style="color: maroon; font-size:48px;">My-Coursera</h1>
 <br/>
 This is my Coursera Modules Repository
 <br/>
